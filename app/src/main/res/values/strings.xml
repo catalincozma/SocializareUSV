@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SocializareUSV</string>
+    <string name="title_activity_client_tab">ClientTabActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="tab_seconf">HARTA</string>
+    <string name="chat_bar">Chat</string>
+    <string name="dialogEnableGps_message">Localizarea GPS este dezactivata</string>
+    <string name="dialogEnableGps_buttonOk">Dschide setari</string>
+    <string name="dialogEnableGps_buttonCancel">Inchide</string>
+
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyC5tIIZW_4gc9whBz6bZJ8pmSdMFlPuOyM</string>
+</resources>

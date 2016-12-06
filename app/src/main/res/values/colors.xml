@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#214fab</color>
+    <color name="colorPrimaryDark">#173778</color>
+    <color name="colorAccent">#e17d1c</color>
+
+    <color name="main_blue">#214FAB</color>
+    <color name="dark_blue">#173778</color>
+    <color name="tab_bar_color">#333A49</color>
+    <color name="tab_bar_color_alt">#D25239</color>
+    <color name="radio_red">#D95F42</color>
+    <color name="main_white">#f9f9fb</color>
+    <color name="full_white">#FFFFFF</color>
+    <color name="main_gray">#b9bdc6</color>
+    <color name="full_black">#000000</color>
+    <color name="title_color">#333a49</color>
+    <color name="text_color_opacity7">#b3333a49</color>
+    <color name="text_color_opacity5">#80333a49</color>
+    <color name="faded_blue">#5c75a7</color>
+    <color name="fade_white">#D9FFFFFF</color>
+    <color name="fade_gray">#F3F3F5</color>
+</resources>
